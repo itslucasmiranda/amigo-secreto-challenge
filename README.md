@@ -4,7 +4,6 @@
     <br />
     <br />
     <a href="https://itslucasmiranda.github.io/amigo-secreto-challenge-main/">
-      <img src="https://itslucasmiranda.github.io/amigo-secreto-challenge-main/assets/Unknown.png" alt="Amigos">
     </a>
   </h1>
 </div>
